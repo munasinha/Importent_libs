@@ -29,3 +29,8 @@
 ## Electron 
 
 lib : http://photonkit.com/components/
+
+
+#social media share buttons 
+
+https://www.addtoany.com/buttons/for/website
